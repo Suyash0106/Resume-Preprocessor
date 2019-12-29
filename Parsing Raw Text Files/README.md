@@ -1,4 +1,4 @@
-# Text Pre-processing
+# Parsing Raw Text Files
 
 Extract the data file from the "Data.zip" and place the data file at the same location as the "Text Pre-Processing.ipynb" file. Execute
 each cell in the python notebook sequentially. This file uses regular expressions for finding all the possible identifiers and creates a
